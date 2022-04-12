@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Bases_Numericas/src"/>
+	<classpathentry kind="src" path="colas_listas/src"/>
+	<classpathentry kind="src" path="Digitos/src"/>
+	<classpathentry kind="src" path="dijkstra/src"/>
+	<classpathentry kind="src" path="Ejercicio dispers con multilista/Nueva carpeta (2)/multilistas/src"/>
+	<classpathentry kind="src" path="Fact_Recursividad/src"/>
+	<classpathentry kind="src" path="Fibonacci_Recursivo/src"/>
+	<classpathentry kind="src" path="Inf_Post_Pila/src"/>
+	<classpathentry kind="src" path="JavaApplication4/src"/>
+	<classpathentry kind="src" path="JavaApplication5/src"/>
+	<classpathentry kind="src" path="MatrizDispersa/src/matrizdispersa"/>
+	<classpathentry kind="src" path="Multilistas/src"/>
+	<classpathentry kind="src" path="Pilas_Lista/src"/>
+	<classpathentry kind="src" path="Potencia_Producto/src"/>
+	<classpathentry kind="src" path="Producto_Recursivo/src"/>
+	<classpathentry kind="src" path="TRIQUI/src"/>
+	<classpathentry kind="src" path="Vector_DatoMayor/src"/>
+	<classpathentry kind="lib" path="JavaApplication4/dist/JavaApplication4.jar"/>
+	<classpathentry kind="lib" path="Multilistas/dist/Multilistas.jar"/>
+	<classpathentry kind="output" path="Bases_Numericas/build/classes"/>
+</classpath>
